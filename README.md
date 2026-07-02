@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Beyza, and I am a newly graduate Bioinformatician/Research Intern.
+My name is Beyza, and I am a newly graduate Research Intern.
 
 - 🔭 I’m currently working on a multi-omics investigation that compares clear cell renal carcinoma and clear cell ovarian carcinoma profiles to identify key biomarkers and molecular signatures. The insights generated from this analysis may help inform more effective therapeutic strategies for a rare, clear cell ovarian cancer.
 
